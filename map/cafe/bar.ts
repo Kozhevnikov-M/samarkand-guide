@@ -42,6 +42,7 @@ export default {
     {
       label: 'Пивной ресторан Хмельновъ',
       location: [39.660551, 67.056546],
+      twoGis 'https://go.2gis.com/4XqXM
       yandexMap: 'https://yandex.uz/maps/-/CDQgjMYV',
       twoGis: 'https://2gis.uz/samarkand/firm/70000001080063566',
       description:
