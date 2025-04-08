@@ -8,6 +8,7 @@ export default {
     {
       label: 'Lion Wise',
       location: [39.660167, 66.939616],
+      twoGis: 'https://go.2gis.com/iUvoC
       yandexMap: 'https://yandex.uz/maps/org/lionwise/43826216715',
       googleMap: 'https://goo.gl/maps/sovUDy5Hoa4QJiy9A',
       instagram: 'https://www.instagram.com/barlionwise/',
