@@ -26,6 +26,7 @@ export const rootItem: MapCategory = {
                   phones: ['+998 91 536 99 39'],
                   yandexMap:
                     'https://yandex.uz/maps/org/axmadjon_lux_osh/191720320054/',
+                  twoGis: 'https://go.2gis.com/nxlch
                   description:
                     'Наверное, лучший плов в Самарканде. Люкс-плов с фирменной подачей',
                 },
@@ -34,6 +35,7 @@ export const rootItem: MapCategory = {
                   location: [39.666694, 66.945986],
                   yandexMap:
                     'https://yandex.uz/maps/org/mahallaosh/69305080656',
+                  twoGis: 'https://go.2gis.com/Zlqx8
                   description:
                     'Одно из немногих мест где плов можно поесть вечером. Готовят 2 раза в день - в 11:30 и 18:00',
                 },
@@ -44,6 +46,7 @@ export const rootItem: MapCategory = {
               label: 'Ismail Sofrasi',
               location: [39.682183, 66.924769],
               yandexMap: 'https://yandex.uz/maps/org/26116258263',
+              twoGis: 'https://go.2gis.com/wZPBG
               description:
                 'Лучшее сочетание цены/качества вокруг, все по домашнему. Всегда отличный плов. Самса трех видов.',
               tags: ['osh'],
@@ -103,7 +106,8 @@ export const rootItem: MapCategory = {
                 {
                   id: 'korzinka-motrid',
                   label: 'Корзинка — Мотрид',
-                  location: [39.717617, 66.932119],
+                  location: [39.717617, 66.932119],]
+                  twoGis: 'https://go.2gis.com/ECJzs
                   yandexMap: 'https://yandex.uz/maps/org/123704214724/',
                   openHours: [{ time: '8:00 - 00:00' }],
                 },
