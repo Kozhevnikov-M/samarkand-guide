@@ -12,6 +12,7 @@ export default {
       location: [39.657778, 66.939625],
       tags: ['kindergarten'],
       price: [1_900_000, 2_400_000],
+      twoGis: 'https://go.2gis.com/KZvIL/,
       yandexMap: 'https://yandex.uz/maps/org/224650435166/',
       googleMap: 'https://goo.gl/maps/1NCudq3bVdSuwd136',
       telegram: 'https://t.me/AlXorazmiy_school',
@@ -23,6 +24,7 @@ export default {
     {
       label: 'Cambridge International College',
       location: [39.663125, 66.948048],
+      twoGis: 'https://go.2gis.com/xgsK6
       yandexMap: 'https://yandex.uz/maps/org/cic_school/149404516890/',
       price: [3_000_000, 3_400_000],
       googleMap: 'https://goo.gl/maps/ewee929WQJDxcqs28',
@@ -55,6 +57,7 @@ export default {
       label: "Istiqbolli Ta'lim",
       location: [39.64273, 66.941251],
       tags: ['kindergarten'],
+      twoGis: 'https://go.2gis.com/Yh7Yl
       yandexMap: 'https://yandex.uz/maps/org/239135647020/',
       googleMap: 'https://goo.gl/maps/d77tG4GFAhW3Um1D9',
       price: [2_700_000, 2_900_000],
@@ -70,6 +73,7 @@ export default {
       location: [39.677752, 66.942913],
       price: [3_300_000],
       priceDate: new Date('2024-09-23'),
+      twoGis: 'https://go.2gis.com/cWtiQ
       yandexMap: 'https://yandex.uz/maps/-/CDXsAF7A',
       instagram: 'https://www.instagram.com/japanschool.samarqand/',
       phones: ['+998 (93) 884-03-03'],
@@ -79,6 +83,7 @@ export default {
     {
       label: 'Oxford International School',
       location: [39.647376, 66.934152],
+      twoGis: 'https://go.2gis.com/lZrSA
       yandexMap:
         'https://yandex.com/maps/org/oxford_international_school/107766877240/',
       googleMap: 'https://goo.gl/maps/MFBKCuWHLwhBwdYA6',
@@ -95,6 +100,7 @@ export default {
       label: 'RedBridge',
       location: [39.662485, 66.965587],
       tags: ['kindergarten'],
+      twoGis: 'https://go.2gis.com/1RM2x,
       yandexMap: 'https://yandex.uz/maps/org/158352191430/',
       googleMap: 'https://maps.app.goo.gl/52inFXjHbkjPBpM17',
       price: [3_400_000, 3_600_000],
@@ -111,6 +117,7 @@ export default {
     {
       label: 'Samarkand Intellekt',
       location: [39.661093, 66.946501],
+      twoGis:  'https://go.2gis.com/0HTxe,
       yandexMap: 'https://yandex.uz/maps/org/207111845669/',
       telegram: 'https://t.me/intellekt_sam',
       instagram: 'https://www.instagram.com/samarkandintellekt/',
@@ -123,6 +130,7 @@ export default {
       label: 'Steam School',
       location: [39.657758, 66.937379],
       tags: ['kindergarten'],
+      twoGis: 'https://go.2gis.com/Ukz5f
       yandexMap:
         'https://yandex.uz/maps/10334/samarkand/house/Yk8YfwRnSkIOQF1jfXp0dntmbA==/',
       instagram: 'https://www.instagram.com/steam_school_for_kids/',
@@ -139,6 +147,7 @@ export default {
       location: [39.650247, 66.940067],
       tags: ['kindergarten'],
       price: [2_600_000],
+      twoGis: 'https://go.2gis.com/RW7dL,
       yandexMap: 'https://yandex.uz/maps/org/4375381747/',
       googleMap: 'https://goo.gl/maps/WczeZF3S8BQG1wvM6',
       telegram: 'https://t.me/timurfayzscholl',
