@@ -8,6 +8,7 @@ export default {
     {
       label: 'Baby Angels',
       location: [39.648645, 66.952844],
+      twoGis: 'https://go.2gis.com/SzMEd
       yandexMap: 'https://yandex.uz/maps/-/CCUG6YUUHA',
       price: [1_200_000],
       phones: ['+998 (93) 864-77-79'],
@@ -25,6 +26,7 @@ export default {
         'русскоговорящий персонал, видеонаблюдение. Так-же подготовка к ' +
         'школе и начальная школа с 1 по 4 класс.',
       phones: ['+998 (91) 229-09-92'],
+      twoGis: 'https://go.2gis.com/YVyoG
       yandexMap: 'https://yandex.uz/maps/org/76320782472/',
       telegram: 'https://t.me/+yT1d51nK0PU5ZDAy',
       instagram: 'https://www.instagram.com/glc.company/',
@@ -37,6 +39,7 @@ export default {
       description:
         'Садик полностью заполнен, поэтому попасть в него сложно. Набирают ' +
         'только в филиал в Саттепо.',
+      twoGis: 'https://go.2gis.com/uAIkt
       yandexMap: 'https://yandex.uz/maps/org/sam_golden_kids/155836620224/',
       googleMap: 'https://goo.gl/maps/gVS4j8TZMrM4h7xc8',
       instagram: 'https://www.instagram.com/golden_kids_samarkand/',
@@ -54,12 +57,14 @@ export default {
         'шахматы/шашки, логопед, дефектолог, химическая лаборатория. Есть ' +
         'автобус который развозит детей за 500,000UZS в месяц. Некоторые ' +
         'критикую за слишком большую нагрузку.',
+      twoGis: 'https://go.2gis.com/YELCW
       yandexMap: 'https://yandex.uz/maps/org/golden_kids_sattepo/66955368051/',
       instagram: 'https://www.instagram.com/golden_kids_sattepo/',
     },
     {
       label: 'Happy Child',
       location: [39.656319, 66.949243],
+      twoGis: 'https://go.2gis.com/6fX5Q
       yandexMap: 'https://yandex.uz/maps/-/CCUG6UAKOA',
       googleMap: 'https://goo.gl/maps/XLCAkQ23hAe8JLSq5',
       instagram: 'https://www.instagram.com/happychild_uz/',
@@ -72,6 +77,7 @@ export default {
     {
       label: 'Kinder city',
       location: [39.658889, 66.930242],
+      twoGis: 'https://go.2gis.com/EyKOw
       yandexMap: 'https://yandex.uz/maps/org/155755092380/',
       instagram: 'https://www.instagram.com/kinder_city_uz/',
       phones: ['+998 (97) 288-60-60', '+998 (93) 236-51-15'],
@@ -82,6 +88,7 @@ export default {
     {
       label: 'Kinder Grand',
       location: [39.649105, 66.959936],
+      twoGis: 'https://go.2gis.com/8YpMt
       yandexMap: 'https://yandex.uz/maps/org/212313031659/',
       instagram: 'https://www.instagram.com/kinder_grand_samarkand_9999/',
       phones: ['+998 (97) 393-55-55', '+998 (91) 521-94-05'],
@@ -90,6 +97,7 @@ export default {
     {
       label: "Ko'zmunchoq",
       location: [39.656376, 66.960152],
+      twoGis: 'https://go.2gis.com/rG48Q
       yandexMap: 'https://yandex.uz/maps/org/198802123147/',
       instagram: 'https://www.instagram.com/kuzmunchoq07770/',
       phones: ['+998 (66) 231-07-77'],
@@ -98,6 +106,7 @@ export default {
     {
       label: 'Magic Kids',
       location: [39.680157, 66.951146],
+      twoGis: 'https://go.2gis.com/RPvkZ
       yandexMap: 'https://yandex.uz/maps/-/CDb6B08n',
       instagram: 'https://www.instagram.com/magic_kids_sam/',
       phones: ['+998 (55) 705-00-03', '+998 (90) 451-07-10'],
@@ -106,6 +115,7 @@ export default {
       label: 'Wunderkind',
       price: [2_000_000],
       location: [39.671565, 66.92388],
+      twoGis: 'https://go.2gis.com/cvOVh
       yandexMap: 'https://yandex.uz/maps/-/CDUDfQKx',
       description:
         'Большая территория, хорошее питание, логопед, новая мебель.',
@@ -114,6 +124,7 @@ export default {
     {
       label: 'Ziyoda',
       location: [39.683527, 66.945195],
+      twoGis: 'https://go.2gis.com/MX9m4
       yandexMap: 'https://yandex.uz/maps/-/CCUoMVd81A',
       instagram: 'https://www.instagram.com/detskiysad_ziyoda/',
       price: [2_000_000],
@@ -123,6 +134,7 @@ export default {
     },
     {
       label: 'Лунтик',
+      twoGis: 'https://go.2gis.com/JBnVI
       price: [1_000_000],
       description:
         'Новый садик на Узбекистанской. Обещают группы до 18 человек. ' +
@@ -132,6 +144,7 @@ export default {
     {
       label: 'Мечта',
       location: [39.652547, 66.938058],
+      twoGis: 'https://go.2gis.com/qsjQM
       yandexMap: 'https://yandex.uz/maps/-/CDQg6FlN',
       googleMap: 'https://goo.gl/maps/F4f4k1dK6UjRXfZM7',
       instagram: 'https://www.instagram.com/mechta_samarkand/',
