@@ -69,6 +69,7 @@ export default {
     {
       label: 'InfinBANK',
       location: [39.64763, 66.954136],
+      twoGis: 'https://go.2gis.com/75bwT
       yandexMap: 'https://yandex.uz/maps/org/11009302757',
       web: 'https://www.infinbank.uz/',
       phones: ['+998 (71) 202-50-60', '+998 (66) 233-94-00'],
@@ -76,6 +77,7 @@ export default {
     {
       label: 'Ипак Йули',
       location: [39.669628, 66.970113],
+      twoGis: 'https://go.2gis.com/Vj7qP
       yandexMap: 'https://yandex.uz/maps/org/115325291618/',
       web: 'https://ru.ipakyulibank.uz/physical/',
       facebook: 'https://www.facebook.com/ipakyulibankuz/',
@@ -95,6 +97,7 @@ export default {
     {
       label: 'Валютчики',
       location: [39.6816, 66.930643],
+      twoGis: 'https://go.2gis.com/NMUKa
       yandexMap: 'https://yandex.uz/maps/-/CCUvfScnHA',
     },
   ],
