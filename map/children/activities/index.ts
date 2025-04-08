@@ -59,6 +59,7 @@ export default {
       label: 'Детская футбольная секция',
       location: [39.682856, 66.925868],
       telegram: 'https://t.me/samarkand_football_school',
+      twoGis: 'https://go.2gis.com/Wl3Jf
       yandexMap: 'https://yandex.uz/maps/-/CCUC4SwkwD',
       description: 'Берут детей с 8 лет.',
     },
@@ -75,6 +76,7 @@ export default {
       label: 'Интересная суббота',
       location: [39.656027, 66.957766],
       yandexMap: 'https://yandex.uz/maps/-/CCUC4WGM-B',
+      twoGis: 'https://go.2gis.com/VYdOw
       telegram: 'https://t.me/interesnayasubbota',
       phones: ['+998 (90) 196-08-80'],
       description:
@@ -98,6 +100,7 @@ export default {
       label: 'Бумажная фабрика Мерос (Конигиль)',
       location: [39.666554, 67.033959],
       yandexMap: 'https://yandex.uz/maps/org/bumazhnaya_fabrika/127209835722/',
+      twoGis: 'https://go.2gis.com/GJfuJ/,
       googleMap: 'https://goo.gl/maps/cYvpByNWEFuXLHZ47',
       video: 'RHRw4qLXsRE',
       description:
