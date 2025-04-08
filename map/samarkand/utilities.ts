@@ -10,6 +10,7 @@ export default {
       id: 'sam-electricity',
       label: 'Самаркандская городская электросеть',
       location: [39.652036, 66.95151],
+      twoGis: 'https://go.2gis.com/2IBFC
       yandexMap: 'https://yandex.uz/maps/org/224799588118/',
       googleMap: 'https://goo.gl/maps/ZZ9shAYgQ6cnc9Ey8',
       web: 'https://het.uz/ru',
@@ -27,6 +28,7 @@ export default {
       id: 'sam-suv',
       label: 'Самарканд сув таъминоти / Водоканал',
       location: [39.639532, 66.940373],
+      twoGis: 'https://go.2gis.com/hfYLU
       yandexMap: 'https://yandex.uz/maps/org/uzvodsnab/142337542459/',
       googleMap: 'https://goo.gl/maps/p8fhCRW13nv5ACvP7',
       web: 'https://uzsuv.uz/ru',
@@ -45,6 +47,7 @@ export default {
       id: 'sam-gaz',
       label: 'Горгаз / Uztransgaz',
       location: [39.666042, 66.924415],
+      twoGis: 'https://go.2gis.com/WR23s
       yandexMap: 'https://yandex.uz/maps/org/129747385260/',
       googleMap: 'https://goo.gl/maps/wNfwgCvXW7hPVp9D7',
       telegram: 'https://t.me/uztransgazaj_info',
