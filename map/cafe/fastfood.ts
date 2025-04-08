@@ -8,6 +8,7 @@ export default {
     {
       label: 'HAMD шаурма',
       location: [39.64527, 66.954753],
+      twoGis: 'https://go.2gis.com/jzG2M
       yandexMap: 'https://yandex.uz/maps/org/13924186850/',
       googleMap: 'https://goo.gl/maps/VRxg2qPxfpk5vvzo7',
       phones: ['+998 (55) 701-09-09'],
