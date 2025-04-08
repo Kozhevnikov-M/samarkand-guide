@@ -13,6 +13,7 @@ export default {
         {
           label: 'Chocolate',
           location: [39.680329, 66.928444],
+          twoGis: 'https://go.2gis.com/V5hsZ
           yandexMap: 'https://yandex.uz/maps/org/154795109887/',
           googleMap: 'https://goo.gl/maps/9qapcRghkpoVqSRj8',
           instagram: 'https://instagram.com/chocolate_sweethome',
