@@ -21,6 +21,7 @@ export default {
     {
       label: 'Sam Craft',
       location: [39.653029, 66.971264],
+      twoGis: 'https://go.2gis.com/3nGV1
       yandexMap: 'https://yandex.uz/maps/org/sam_craft/55968829047/',
       googleMap: 'https://goo.gl/maps/cULduP5VKeofMvnv8',
       instagram: 'https://www.instagram.com/samcraft_beer/',
@@ -30,6 +31,7 @@ export default {
     {
       label: 'Sam Craft Pub',
       location: [39.653651, 66.972004],
+      twoGis: 'https://go.2gis.com/HZSbo
       yandexMap: 'https://yandex.uz/maps/-/CDqHQBO9',
       instagram: 'https://www.instagram.com/samcraft_beer/',
       phones: ['+998 (95) 837-83-76', '+998 (99) 444-96-62'],
