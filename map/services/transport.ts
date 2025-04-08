@@ -7,6 +7,7 @@ export default {
       label: 'Аэропорт',
       location: [39.695772, 66.99094],
       icon: 'islands#blueAirportIcon',
+      twoGis: 'https://go.2gis.com/mDkhP
       yandexMap: 'https://yandex.uz/maps/-/CCUvfKbt2A',
       googleMap: 'https://goo.gl/maps/DrPf9xQ9JwPTECVx8',
       web: 'https://www.uzbairports.uz/',
@@ -18,6 +19,7 @@ export default {
       label: 'Железнодорожный вокзал',
       location: [39.685366, 66.928879],
       icon: 'islands#blueRailwayIcon',
+      twoGis: 'https://go.2gis.com/koEt6
       yandexMap: 'https://yandex.uz/maps/-/CCUvfKqKlC',
       googleMap: 'https://goo.gl/maps/Bs5J2x1K4rbnwrdK9',
       telegram: 'https://t.me/uzrailways_uz',
@@ -30,6 +32,7 @@ export default {
       id: 'tashkent-pyatok',
       location: [39.675929, 67.006052],
       icon: 'islands#blueAutoIcon',
+      twoGis: 'https://go.2gis.com/3YSKU
       yandexMap: 'https://yandex.uz/maps/10334/samarkand/stops/1829361501/',
       description:
         'Стоянка такси до Ташкента. 400,000-500,000 сумов машина, ' +
@@ -50,6 +53,7 @@ export default {
     },
     {
       label: 'Автостанция Кафтархона',
+      twoGis: 'https://go.2gis.com/MaoOa
       location: [39.644007, 66.999194],
       icon: 'islands#blueMassTransitIcon',
       yandexMap: 'https://yandex.uz/maps/org/224734011015/',
@@ -62,6 +66,7 @@ export default {
     {
       label: 'Сельский пятак',
       location: [39.616491, 66.955416],
+      twoGis: 'https://go.2gis.com/sRUgE
       yandexMap:
         'https://yandex.uz/maps/198101/khuzha-achori-vali/stops/4230811939/',
       description:
