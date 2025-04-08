@@ -107,6 +107,7 @@ export default {
         {
           label: 'Optovik.uz — Окмачит, 21 школа',
           location: [39.621999, 66.994227],
+          twoGis: '
           yandexMap: 'https://yandex.uz/maps/-/CDaAF-LY',
           openHours: [{ time: '8:00 - 23:00' }],
         },
@@ -251,6 +252,7 @@ export default {
           label: 'Buyuk',
           address: 'ул. Гагарина 29',
           location: [39.678904, 66.940533],
+          twoGis: 'https://go.2gis.com/kK3c1
           yandexMap: 'https://yandex.uz/maps/org/172805631788/',
           instagram: 'https://www.instagram.com/buyuksupermarket/',
           openHours: [{ time: '7:00 - 00:00' }],
@@ -263,6 +265,7 @@ export default {
           label: 'Samyak',
           address: 'ул. Амира Тимура 17а',
           location: [39.65292, 66.957819],
+          twoGis: 'https://go.2gis.com/Lkhhg
           yandexMap: 'https://yandex.uz/maps/org/14048181921/',
           instagram: 'https://www.instagram.com/samyak.uz/',
           openHours: [{ time: 'круглосуточно' }],
